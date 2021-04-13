@@ -20,4 +20,5 @@ func main() {
 
 //  What is the output ?
 // ANSWER [0 1 2 3 4 5 6 7 8 9]
+// We are printing the result of `a`
 // https://play.golang.org/p/itnZYDiqdIN
