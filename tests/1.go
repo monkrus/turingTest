@@ -18,5 +18,6 @@ func main() {
 	fmt.Println(a)
 }
 
+//  What is the output ?
 // ANSWER [0 1 2 3 4 5 6 7 8 9]
 // https://play.golang.org/p/itnZYDiqdIN
